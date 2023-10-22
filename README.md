@@ -11,9 +11,13 @@ Creating the best prediction model to predict “Churn Status in Banking”.
 
 **Scoring**
 ● Getting Best Accuracy > 86% : 100
+
 ● Getting Best Accuracy 85% - 86%: 85
+
 ● Getting Best Accuracy 84% - 85%: 70
+
 ● Getting Best Accuracy <84% : 55
+
 ● Any error in the code will become 0
 
 ## Task 2
