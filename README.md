@@ -20,21 +20,21 @@ Creating the best prediction model to predict “Churn Status in Banking”.
 Creating the best number of clusters for “Random Points”.
 
 **Scoring**
-● Getting Best Silhouette Score > 70: 100
-● Getting Best Silhouette Score 65-70: 85
-● Getting Best Silhouette Score 60-65: 70
-● Getting Best Silhouette Score <65: 55
-● Any error in the code will become 0
+<br>● Getting Best Silhouette Score > 70: 100
+<br>● Getting Best Silhouette Score 65-70: 85
+<br>● Getting Best Silhouette Score 60-65: 70
+<br>● Getting Best Silhouette Score <65: 55
+<br>● Any error in the code will become 0
 
 ## Task 3
 Deep Learning for MNIST Handwritten Digit Classification using PyTorch. This is an exploration task. Develop your end-to-end workflow for solving a Handwritten Digit Classification task using Neural Network architecture (**not Convolutional Neural Network**). These are the criteria for scoring:
-● Loading your MNIST dataset for the data loader
-● Visualize several MNIST datasets
-● Design your Neural Network model
-● Setup your hyperparameter such as Loss Function, Optimizer, Learning Rate, etc
-● Develop a training loop and run a training model
-● Evaluate the Model using several performance metrics such as accuracy, confusion matrix, F1 Score, Precision, Recall, etc
-● Describe and explain your Result
+<br>● Loading your MNIST dataset for the data loader
+<br>● Visualize several MNIST datasets
+<br>● Design your Neural Network model
+<br>● Setup your hyperparameter such as Loss Function, Optimizer, Learning Rate, etc
+<br>● Develop a training loop and run a training model
+<br>● Evaluate the Model using several performance metrics such as accuracy, confusion matrix, F1 Score, Precision, Recall, etc
+<br>● Describe and explain your Result
 
 ## Bonus Task
 This problem description is the same as Task 3. But there are some technical challenges that you have to choose one.
